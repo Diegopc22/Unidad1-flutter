@@ -6,25 +6,25 @@ Este repositorio reúne las prácticas y ejercicios realizados durante la primer
 
 A lo largo de la unidad se trabajaron diferentes elementos fundamentales para el desarrollo de aplicaciones móviles con Flutter:
 
-    * Uso de **Flutter y Dart**.
-    * Creación y organización de interfaces gráficas.
-    * Uso de **widgets** para construir las aplicaciones.
-    * Inserción de **imágenes** y recursos.
-    * Uso de **botones** y eventos.
-    * Manejo de **cajas de texto (`TextField`)**.
-    * Envío de datos entre diferentes pantallas.
-    * Navegación entre pantallas mediante `Navigator`.
-    * Uso de **colores** para personalizar la interfaz.
-    * Creación de formularios básicos.
-    * Validación de información introducida por el usuario.
-    * Uso de clases y archivos para organizar el código.
+    -Uso de Flutter y Dart.
+    -Creación y organización de interfaces gráficas.
+    -Uso de widgets para construir las aplicaciones.
+    -Inserción de imágenes y recursos.
+    -Uso de botones y eventos.
+    -Manejo de cajas de texto (`TextField`).
+    -Envío de datos entre diferentes pantallas.
+    -Navegación entre pantallas mediante `Navigator`.
+    -Uso de colores para personalizar la interfaz.
+    -Creación de formularios básicos.
+    -Validación de información introducida por el usuario.
+    -Uso de clases y archivos para organizar el código.
 
 🛠️ Requisitos
 
 Para ejecutar las prácticas se necesita:
 
-    * **Flutter SDK**
-    * **Dart**
-    * **Android Studio** o un entorno compatible.
-    * Un dispositivo Android físico o un emulador.
-    * Un editor de código como **Visual Studio Code** o Android Studio.
+    -Flutter SDK
+    -Dart
+    -Android Studio** o un entorno compatible.
+    -Un dispositivo Android físico o un emulador.
+    -Un editor de código como Visual Studio Code o Android Studio.
