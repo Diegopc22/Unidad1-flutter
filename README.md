@@ -1,8 +1,8 @@
 ![flutter](https://localazy.com/_ipx/q_80&f_webp&w_1400/https://directus9.localazy.com/assets/d3eff128-1fd3-4087-8596-dafbb0f3650e)
-# 📱 Prácticas Flutter - Unidad 1
+📱 Prácticas Flutter - Unidad 1
 Este repositorio reúne las prácticas y ejercicios realizados durante la primera unidad de la materia **Desarrollo de Aplicaciones para Dispositivos Móviles**.
 
-## 📂 Organización del repositorio
+📂 Organización del repositorio
 
 El repositorio está compuesto por diferentes proyectos y prácticas desarrolladas durante la unidad:
 
@@ -14,7 +14,7 @@ El repositorio está compuesto por diferentes proyectos y prácticas desarrollad
     * **Práctica 6** → Creación de un inicio de sesión mediante cajas de texto y validación de datos.
     * **Práctica 7** → Envío de información entre diferentes pantallas de la aplicación.
 
-## 🚀 Temáticas principales trabajadas
+🚀 Temáticas principales trabajadas
 
 A lo largo de la unidad se trabajaron diferentes elementos fundamentales para el desarrollo de aplicaciones móviles con Flutter:
 
@@ -31,7 +31,7 @@ A lo largo de la unidad se trabajaron diferentes elementos fundamentales para el
     * Validación de información introducida por el usuario.
     * Uso de clases y archivos para organizar el código.
 
-## 🛠️ Requisitos
+🛠️ Requisitos
 
 Para ejecutar las prácticas se necesita:
 
