@@ -1,7 +1,9 @@
+![flutter](https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1c8e81f2.png)
 # 📱 Prácticas Flutter - Unidad 1
 Este repositorio reúne las prácticas y ejercicios realizados durante la primera unidad de la materia **Desarrollo de Aplicaciones para Dispositivos Móviles**.
 
 ## 📂 Organización del repositorio
+
 El repositorio está compuesto por diferentes proyectos y prácticas desarrolladas durante la unidad:
 
     * **Práctica 1** → Introducción a Flutter y creación de una interfaz básica.
@@ -13,6 +15,7 @@ El repositorio está compuesto por diferentes proyectos y prácticas desarrollad
     * **Práctica 7** → Envío de información entre diferentes pantallas de la aplicación.
 
 ## 🚀 Temáticas principales trabajadas
+
 A lo largo de la unidad se trabajaron diferentes elementos fundamentales para el desarrollo de aplicaciones móviles con Flutter:
 
     * Uso de **Flutter y Dart**.
@@ -29,6 +32,7 @@ A lo largo de la unidad se trabajaron diferentes elementos fundamentales para el
     * Uso de clases y archivos para organizar el código.
 
 ## 🛠️ Requisitos
+
 Para ejecutar las prácticas se necesita:
 
     * **Flutter SDK**
