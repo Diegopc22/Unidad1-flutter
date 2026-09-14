@@ -1,4 +1,4 @@
-![flutter]([https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1c8e81f2.png](https://wata.es/es/flutter/))
+![flutter](https://wata.es/wp-content/uploads/2022/01/img_flutter-logo-BG.svg)
 # 📱 Prácticas Flutter - Unidad 1
 Este repositorio reúne las prácticas y ejercicios realizados durante la primera unidad de la materia **Desarrollo de Aplicaciones para Dispositivos Móviles**.
 
